@@ -367,22 +367,23 @@ if population < 10000000:
     print(population)
 ```
 b. Write an if statement that will print the population if it is between 10,000,000 and 35,000,000.
+```
 population = float(11000000)
 
 if population => 10000000 and population <= 35000000:
     print(population)
-
+```
 
 c. Write an if statement that will print “Densely populated” if the land density (number of people per unit of area) is greater than 100.
-
+```
 population = float(11000000)
 land_area  = float(1000)
 
 if (population/land_area) > 100:
     print("Densely populated")
-
+```
 d. Write an if statement that will print “Densely populated” if the land density (number of people per unit of area) is greater than 100, and “Sparsely populated” otherwise.
-
+```
 population = float(11000000)
 land_area  = float(10000000)
 
@@ -390,7 +391,7 @@ if (population/land_area) > 100:
     print("Densely populated")
 else: 
     print("Sparsely populated")
-
+```
 8. 
 
 I really had to be honest and look at the answer. I didn't get it. After studying the answer I got it and understood the solution. 
