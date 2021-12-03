@@ -56,10 +56,10 @@ Everything
 [chapter5 details](chapter5/README.md)
 
 ## What you liked ?
-The explanation. 
+The explanation and the exercises. 
 
 ## What was new to you ?
-Function and uses
+Proper use of Booleans
 
 ## What was wow ?
 Everything
