@@ -360,6 +360,120 @@ False
 7. Variables population and land_area refer to floats.
 a. Write an if statement that will print the population if it is less than
 10,000,000.
+```
+population = float(11000000)
+
+if population < 10000000:
+    print(population)
+```
 b. Write an if statement that will print the population if it is between 10,000,000 and 35,000,000.
+population = float(11000000)
+
+if population => 10000000 and population <= 35000000:
+    print(population)
+
+
 c. Write an if statement that will print “Densely populated” if the land density (number of people per unit of area) is greater than 100.
+
+population = float(11000000)
+land_area  = float(1000)
+
+if (population/land_area) > 100:
+    print("Densely populated")
+
 d. Write an if statement that will print “Densely populated” if the land density (number of people per unit of area) is greater than 100, and “Sparsely populated” otherwise.
+
+population = float(11000000)
+land_area  = float(10000000)
+
+if (population/land_area) > 100:
+    print("Densely populated")
+else: 
+    print("Sparsely populated")
+
+8. 
+
+I really had to be honest and look at the answer. I didn't get it. After studying the answer I got it and understood the solution. 
+```
+def convert_temperatures(t, source, target):
+    """ (number, str, str) -> number
+    Convert t from source temperature scale to target temperature scale
+    and return the result.
+    >>> convert_temperatures(0, 'Celsius', 'Kelvin')
+    273.15
+    >>> convert_temperatures(100, 'Celsius', 'Fahrenheit')
+    212.0
+    """
+    if source == 'Kelvin':
+    celsius = t - 273.15
+    elif source == 'Celsius':
+    celsius = t
+    elif source == 'Fahrenheit':
+    celsius = (t - 32) * 5 / 9
+    elif source == 'Rankine':
+    celsius = (t - 491.67) * 5 / 9
+    elif source == 'Delisle':
+    celsius = 100 - t * 2 / 3
+    elif source == 'Newton':
+    celsius = t * 100 / 33
+    elif source == 'Reamur':
+    celsius = t * 5 / 4
+    elif source == 'Romer':
+    celsius = (t - 7.5) * 40 / 21
+    if target == 'Kelvin':
+    return celsius + 273.15
+    elif target == 'Celsius':
+    return celsius
+    elif target == 'Fahrenheit':
+    return celsius * 9 / 5 + 32
+    elif target == 'Rankine':
+    return (celsius + 273.15) * 9 / 5
+    elif target == 'Delisle':
+    return (100 - celsius) * 3 / 2
+    elif target == 'Newton':
+    return celsius * 33 / 100
+    elif target == 'Reamur':
+    return celsius * 4 / 5
+    elif target == 'Romer':
+    return celsius * 21 / 40 + 7.5
+```   
+
+9. 
+
+Order is wrong. It tests the first one and then the second one. Should be this
+```
+ph = 2
+if ph < 3.0:
+    print(ph, "is VERY acidic! Be careful.")
+elif ph < 7.0:
+    print(ph, "is acidic.")
+```    
+
+10. 
+a. It's acidic!
+b. It's acidic!
+c. 
+```
+ph = float(input("Enter the ph level: ")) 
+if ph < 7.0:
+    print("It's acidic!") 
+if ph < 4.0:
+    print("It's a strong acid!")
+```
+
+11. Why does the last example in Remembering Results of a Boolean Expression Evaluation, on page 92, check to see whether someone is light (that is, that person’s BMI is less than the threshold) rather than heavy? If you wanted to write the second assignment statement as heavy = bmi >= 22.0, what change(s) would you have to make to the code?
+```
+age = 33
+bmi = 20
+young = age < 45 
+heavy = bmi >= 22.0
+
+if young and not heavy:
+    risk = 'low'
+elif young and heavy:
+    risk = 'medium'
+elif not young and not heavy:
+    risk = 'medium'
+elif not young and heavy:
+    risk = 'high'
+```
