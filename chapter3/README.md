@@ -259,7 +259,7 @@ c. round(max(5.572, 3.258), abs(-2))
 ```
 round(max(5.572, 3.258), 2)  
 round(5.572, 2)  
-5.72  
+5.57  
 ```
 3. Following the function design recipe, define a function that has one parameter, a number, and returns that number tripled.
 ```

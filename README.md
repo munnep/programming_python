@@ -1,7 +1,7 @@
 # Practical programming
 
 # Practical programming: Chapter 1
-[chapter1 details](chapter1/README.md)
+https://github.com/munnep/programming_python/blob/main/chapter1/README.md
 
 ## What you liked ?
 The clear outline of the book and what we are going to do
@@ -15,7 +15,7 @@ Nothing
 
 
 # Practical programming: Chapter 2
-[chapter2 details](chapter2/README.md)
+https://github.com/munnep/programming_python/blob/main/chapter2/README.md
 
 ## What you liked ?
 The explanation. 
@@ -28,7 +28,7 @@ Everything
 
 
 # Practical programming: Chapter 3
-[chapter3 details](chapter3/README.md)
+https://github.com/munnep/programming_python/blob/main/chapter3/README.md
 
 ## What you liked ?
 The explanation. 
@@ -40,7 +40,7 @@ Function and uses
 Everything
 
 # Practical programming: Chapter 4
-[chapter4 details](chapter4/README.md)
+https://github.com/munnep/programming_python/blob/main/Chapter4/README.md
 
 ## What you liked ?
 The explanation. 
