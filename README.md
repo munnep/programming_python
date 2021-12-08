@@ -66,7 +66,7 @@ Everything
 
 
 # Practical programming: Chapter 6
-[chapter5 details](chapter6/README.md)
+[chapter6 details](chapter6/README.md)
 
 ## What you liked ?
 the modules
@@ -79,7 +79,7 @@ Everything
 
 
 # Practical programming: Chapter 7
-[chapter5 details](chapter7/README.md)
+[chapter7 details](chapter7/README.md)
 
 ## What you liked ?
 Methods
@@ -92,7 +92,7 @@ Everything
 
 
 # Practical programming: Chapter 8
-[chapter5 details](chapter8/README.md)
+[chapter8 details](chapter8/README.md)
 
 ## What you liked ?
 The usage of lists
