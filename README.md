@@ -104,3 +104,28 @@ solving the exercises from positive list point of view and negative list point o
 Everything
 
 
+# Practical programming: Chapter 9
+[chapter9 details](chapter9/README.md)
+
+## What you liked ?
+Loops and options. So many ways to solve some things or do some things. 
+
+## What was new to you ?
+Did some loops in bash scripting but more trial and error then really understanding. Now I understand better what I'm doing and how to think about it. 
+
+## What was wow ?
+Everything
+
+# Practical programming: Chapter 10
+[chapter10 details](chapter10/README.md)
+
+## What you liked ?
+How you can read from files and what you can do with all that data coming in. 
+
+## What was new to you ?
+Reading the files and manipulating the data. Running all the examples from the book and understanding what they did was challenging. 
+
+## What was wow ?
+This was the nightmare chapter 6 months ago. I just couldn't understand it and the exercises and answers beyond me. After doing the other book and coming back to this. It is still a very difficult book. It takes a lot of effort to get through a chapter. Difference this time was that it all made more sense. I could read the examples better. Understood better what happened. Understood better where to look for when changing something or what a change actually did. 
+
+
