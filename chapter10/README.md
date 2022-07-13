@@ -87,6 +87,7 @@ Write a for loop to read the contents of alkaline_metals.txt and store it in a l
 `exercise6.py`
 
 7. Modify the PDB file reader of Multiline Records, on page 195, so that it ignores blank lines and comment lines in PDB files. A blank line is one that contains only space and tab characters (that is, one that looks empty when viewed). A comment is any line beginning with the keyword CMNT.
+`exercise7.py`
 
-
-
+8. Modify the PDB file reader to check that the serial numbers on atoms start at 1 and increase by 1. What should the modified function do if it finds a file that doesn’t obey this rule?
+`exercise8.py`
