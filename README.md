@@ -128,4 +128,17 @@ Reading the files and manipulating the data. Running all the examples from the b
 ## What was wow ?
 This was the nightmare chapter 6 months ago. I just couldn't understand it and the exercises and answers beyond me. After doing the other book and coming back to this. It is still a very difficult book. It takes a lot of effort to get through a chapter. Difference this time was that it all made more sense. I could read the examples better. Understood better what happened. Understood better where to look for when changing something or what a change actually did. 
 
+# Practical programming An introduction to computer science using Python 3.6
+# Practical programming: Chapter 11
+[chapter11 details](chapter11/README.md)
+
+## What you liked ?
+How you can use set, tuples and dictionaries to solve problems. Getting to understand a bit more about the structures of data and how programmers can work with it. 
+
+## What was new to you ?
+set vs tuple vs dictionary and what you could do with it. 
+
+
+## What was wow ?
+Doing the exercises I hit a wall. I look at the answer and then at the code I did and be like. It can't be that easy. Trying the book answer and it works and have to do some extra prints or play with it until the penny drops or just happy to have something that works and looking at the answer and be like........oh it could be done in 3 lines instead of 8....Then seeing how that works. 
 
