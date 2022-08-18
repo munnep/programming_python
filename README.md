@@ -155,3 +155,19 @@ How to think about algorithms.
 With a small data set you hardly see the difference but with a big data set you do see the difference in how good the code is. 
 
 The code worked great for 4 years but now it is slow. It has to be something with the system or the data set is so much bigger that the code can't handle it as you expect it would. Having someone have a new look on the code can be a big change. 
+
+
+# Practical programming An introduction to computer science using Python 3.6
+# Practical programming: Chapter 13
+[chapter13 details](chapter13/README.md)
+
+## What you liked ?
+How many options you have to sort things and each with there own things to like/dislike. 
+- Some better to read
+- Some better performance
+
+## What was new to you ?
+What they meant with binary search and lineair search. Had no idea and how this worked in the background. 
+
+## What was wow ?
+Going through the exercises and see the different ways of sorting and searching things.  
