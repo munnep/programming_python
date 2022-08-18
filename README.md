@@ -136,9 +136,22 @@ This was the nightmare chapter 6 months ago. I just couldn't understand it and t
 How you can use set, tuples and dictionaries to solve problems. Getting to understand a bit more about the structures of data and how programmers can work with it. 
 
 ## What was new to you ?
-set vs tuple vs dictionary and what you could do with it. 
-
+set vs tuple vs dictionary and what you can do with it. 
 
 ## What was wow ?
-Doing the exercises I hit a wall. I look at the answer and then at the code I did and be like. It can't be that easy. Trying the book answer and it works and have to do some extra prints or play with it until the penny drops or just happy to have something that works and looking at the answer and be like........oh it could be done in 3 lines instead of 8....Then seeing how that works. 
+Doing the exercises I hit a wall. I look at the answer and then at the code I did and be like. It can't be that easy. Trying the book answer and it works and have to do some extra prints or play with it until the penny drops. Other time just happy to have something that works and looking at the answer and be like........"oh it could be done in 3 lines instead of 8...." Then seeing how that works. 
 
+# Practical programming An introduction to computer science using Python 3.6
+# Practical programming: Chapter 12
+[chapter12 details](chapter12/README.md)
+
+## What you liked ?
+You can solve things in different ways but performance as always can differ between one solution and the other
+
+## What was new to you ?
+How to think about algorithms. 
+
+## What was wow ?
+With a small data set you hardly see the difference but with a big data set you do see the difference in how good the code is. 
+
+The code worked great for 4 years but now it is slow. It has to be something with the system or the data set is so much bigger that the code can't handle it as you expect it would. Having someone have a new look on the code can be a big change. 
