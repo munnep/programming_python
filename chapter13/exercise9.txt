@@ -1,0 +1,7 @@
+I couldn't come up with a third option
+
+answer from book
+
+
+A third way to do it, as practiced by many novice programmers (including ourselves back when we started!) is to make a guess, and then keep fussing with the code until it works. We have learned by experience that this almost never saves time, and often can triple or quadruple the amount of time we spend.
+We personally prefer the first version, because there are only a small number of ways for the loop to be done, but many ways for it to continue.
